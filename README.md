@@ -1,5 +1,5 @@
 # Hello, world!
 
-I studi in Netology
+I study in Netology
 
 07.01.2024
